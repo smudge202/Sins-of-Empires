@@ -19715,7 +19715,7 @@ StringInfo
 	Value "Capital Weapons"
 StringInfo
 	ID "IDS_TITANUPGRADE_TECHLOYALIST_WEAPONS_DESCRIPTION"
-	Value "Change the vanilla capital weapons aboard the titan for T2, faction and Officer modueles."
+	Value "Refit the Titan's weapons and weapon upgrades with T2, Faction, and Officer variants to improve weapon damage."
 StringInfo
 	ID "IDS_TITANUPGRADE_TECHREBEL_ABILITIES_NAME"
 	Value "Magnetic Containment"
