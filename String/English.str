@@ -25646,7 +25646,7 @@ StringInfo
 	Value "Super Carrier Refit"
 StringInfo
 	ID "IDS_SUPERCARRIER_REFIT_DESCRIPTION"
-	Value "Change the fit of the Super Carrier with DED Armor Modules, greatly increasing survavility."		
+	Value "Change the fit of the Super Carrier with DED Armor Modules, greatly increasing survivability."		
 StringInfo
 	ID "IDS_LEGION_NAME"
 	Value "Legion Strategic Cruiser"
@@ -25772,13 +25772,13 @@ StringInfo
 	Value "Cruiser Armor Upgrade"
 StringInfo
 	ID "IDS_RSA_CRUISERRESISTARMOR_DESCRIPTION"
-	Value "Install on attack cruisers aditional Plate armors and Resist upgrades increassing overall survavility."
+	Value "Install additional Plate Armor and Resist Upgrades on attack cruisers, increasing overall survivability."
 StringInfo
 	ID "IDS_RSA_CRUISERRESISTSHIELD_NAME"
 	Value "Cruiser Shield Uprade"
 StringInfo
 	ID "IDS_RSA_CRUISERRESISTSHIELD_DESCRIPTION"
-	Value "Install on attack cruisers aditional Shield Extenders armors and Resist Smplifiers increassing overall survavility."
+	Value "Install additional Shield Extenders and Resist Amplifiers on attack cruisers, increasing overall survivability."
 StringInfo
 	ID "IDS_RSA_INTERDICTOR_NAME"
 	Value "Interdictor Upgrade"
