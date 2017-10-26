@@ -5,7 +5,7 @@ StringInfo
 	Value "P.A.N.I.C Module"
 StringInfo
     ID "IDS_ABILITY_RORQUALPANIC_DESC"
-	Value "The Pulse Activated Nexus Invulnerability Core makes the Rorqual invulnerable for 2 minutes."
+	Value "The Pulse Activated Nexus Invulnerability Core makes the Rorqual invulnerable for 60 seconds."
 StringInfo
     ID "IDS_ABILITY_RORQUALEXTRACTOR_NAME"
 	Value "Mining Boost"
