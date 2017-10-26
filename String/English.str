@@ -25184,7 +25184,7 @@ StringInfo
 	Value "Capital Armor Repair"
 StringInfo
 	ID "IDS_ABILITY_ARMORREPAIRCAPITAL_DESCRIPTION"
-	Value "Restore a great amount of the self armor."
+	Value "Restore a great amount of own armor."
 StringInfo
 	ID "IDS_ABILITY_SHIELDBOOSTER_NAME"
 	Value "Shield Booster"
