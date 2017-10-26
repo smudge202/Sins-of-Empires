@@ -24572,7 +24572,7 @@ StringInfo
 	Value "Dragonfly Squad"
 StringInfo
 	ID "IDS_SQUADDRAGONFLY_DESCRIPTION"
-	Value "Dragonfly fighters designed to provide fire support and DPS to friendly ships, These small craft are formidably powerful Gallente fighters."
+	Value "Dragonfly fighters designed to provide fire support and DPS to friendly ships, These small craft are formidable Caldari fighters."
 StringInfo
 	ID "IDS_SQUADMANTIS_NAME"
 	Value "Mantis Bomber Squad"
