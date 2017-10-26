@@ -24545,7 +24545,7 @@ StringInfo
 	Value "	Fighter Support Unit"
 StringInfo
 	ID "IDS_ABILITY_FIGHTERSUPPORTUNIT_DESCRIPTION"
-	Value "This module increase the number of fighters per squad in 1."
+	Value "Improves the characteristics of your drones to both improve their survivability and increase their damage output."
 StringInfo
 	ID "IDS_ABILITY_MISSILEGUIDANCECOMPUTER_NAME"
 	Value "	Missile Guidance Computer"
