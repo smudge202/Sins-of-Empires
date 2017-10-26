@@ -24584,7 +24584,7 @@ StringInfo
 	Value "Einherji Squad"
 StringInfo
 	ID "IDS_SQUADEINHERJI_DESCRIPTION"
-	Value "Einherji fighters designed to provide fire support and DPS to friendly ships, These small craft are formidably powerful Gallente fighters."
+	Value "Einherji fighters designed to provide fire support and DPS to friendly ships, These small craft are formidable Minmatar fighters."
 StringInfo
 	ID "IDS_SQUADETYRFING_NAME"
 	Value "Tyrfing Bomber Squad"
